@@ -1,5 +1,3 @@
-### README.md
-
 kLauncher
 프로그램 만든이 : 한기환(NedaLove)
 스타크래프트 리마스터
