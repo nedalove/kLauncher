@@ -1,5 +1,3 @@
-# Download : <https://github.com/nedalove/kLauncher/blob/Release/Setup.msi>
-
 # kLauncher
 
 프로그램 만든이 : 한기환(NedaLove)
@@ -81,6 +79,8 @@
    
 ##	버전 v 1.0.0 :
 
-		-프로그램 탄생
+		프로그램 탄생
 		
-		-핵감지
+		핵감지
+
+* Download : <https://github.com/nedalove/kLauncher/blob/Release/Setup.msi>
