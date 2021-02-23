@@ -285,13 +285,23 @@
 ## 이미지
 
 
-![image (1)](https://user-images.githubusercontent.com/57429138/106173370-329dd700-61d7-11eb-86fa-5de0324b128e.png)
+![image (1)](https://user-images.githubusercontent.com/57429138/108878792-f0d04700-7643-11eb-848b-07dc83d6bd75.png)
 * 재대로 로딩시 좌측 상단에 로고 출력
 * 로고 없을시 로딩 실패
 
 
-![image](https://user-images.githubusercontent.com/57429138/106173377-34679a80-61d7-11eb-8d83-8ebbf0012021.png)
+![image](https://user-images.githubusercontent.com/57429138/108878791-f037b080-7643-11eb-921e-9b5bb9f2613c.png)
 * 메인 이미지
+
+![image](https://user-images.githubusercontent.com/57429138/108878796-f168dd80-7643-11eb-83cf-41399e9dabbc.png)
+* 방 필터링
+* 직접 방을 검색해서 찾는경우 필터링이 적용안됩니다.
+
+![image](https://user-images.githubusercontent.com/57429138/108878777-edd55680-7643-11eb-8d75-14b980ca6e57.png)
+* 로비창
+
+![image](https://user-images.githubusercontent.com/57429138/108878788-ef9f1a00-7643-11eb-96cd-27a730dc76f9.png)
+* 컨트롤 + 키패드 0
 
 
 ## Download:
