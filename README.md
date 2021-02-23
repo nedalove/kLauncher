@@ -302,7 +302,7 @@
 
 
 ## Download:
-* Download : <https://github.com/nedalove/kLauncher/blob/Release/Setup.msi>
+* Download : https://github.com/nedalove/kLauncher/tree/Release
 
 ## 실행 안될경우:
 
