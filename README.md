@@ -334,7 +334,7 @@
 * 라이브러리 다운
  - 올인원 런타임 패키지 설치: https://www.computerbase.de/downloads/systemtools/all-in-one-runtimes/ 
 
-## 제작자:
+## 제작자 && 도움주신 분:
 
 * R&D - 한기환
 * 데이터 서버 - mp662002
