@@ -153,6 +153,8 @@ Insert 로 런처 제어
  
  ##	버전 v 2.0.6:
  
+ 		키 변경 컨트롤 + H,L -> Insert,Delete
+ 
 		시간 AM,PM 표시
 		
 		팅기는 문제 수정
