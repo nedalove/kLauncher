@@ -406,7 +406,7 @@
 * 라이브러리 다운
  - 올인원 런타임 패키지 설치: https://www.computerbase.de/downloads/systemtools/all-in-one-runtimes/ 
 
-## 실행 안될경우:
+## 렉 걸릴경우:
 
 * Setting 에서 패킷검증 OFF, 핵감지 OFF 한 후 사용
 
