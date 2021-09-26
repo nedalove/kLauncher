@@ -161,7 +161,7 @@
 
 ##	버전 v 2.4.8 이후 변경내용:
 
-		홈페이지에서 확인: https://klauncher.kr/bbs/board.php?bo_table=notice
+		홈페이지에서 확인: <https://klauncher.kr/bbs/board.php?bo_table=notice>
 
 ##	버전 v 2.4.7:
 
