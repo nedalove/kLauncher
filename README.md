@@ -1,3 +1,6 @@
+# 저장소 이동안내
+* 저장소가 https://github.com/kLauncher/kLauncher/releases 로 이동 되었습니다.
+
 # 바이러스 오감지
 
 * 공식 싸이트에서 받을 경우 바이러스 없습니다.
